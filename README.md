@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">A Fresher Seeking SDE Role</h3>
 
-- 🔭 I’m currently working on **DRDO Intern**
+- 🔭 Ex Intern on **DRDO Intern**
 
 - 📫 How to reach me : **vidhirawat9023@gmail.com**
 
